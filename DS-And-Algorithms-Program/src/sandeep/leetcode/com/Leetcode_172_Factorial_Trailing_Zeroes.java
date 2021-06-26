@@ -13,7 +13,7 @@ public class Leetcode_172_Factorial_Trailing_Zeroes
 	private static int factNumOfZeros(int number)
 	{
 		//2ND APPROACH=:
-	//	railing 0s in n! = Count of 5s in prime factors of n!
+	//	railing 0s in n! = Count of 5s in prime factors of n!	
      //           = floor(n/5) + floor(n/25) + floor(n/125) + ....
 		int count=0;
 		if(number==0)
