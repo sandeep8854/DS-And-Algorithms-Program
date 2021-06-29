@@ -1,7 +1,5 @@
 package sandeep.spoj.com;
-
 import java.util.Scanner;
-
 public class Spoj_2_Prime_Interval 
 {
 	public static void main(String[] args) 
@@ -12,8 +10,6 @@ public class Spoj_2_Prime_Interval
 		System.out.println("Enter Ending Number for find  ?   ? ");
 		int end=sc.nextInt();
 		prime(st1,end);
-	
-
 	}
 
 	private static void prime(int st1, int end)
