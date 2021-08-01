@@ -33,6 +33,23 @@ Enter Any Decimal Number  ?   ?
 238
 100Z11
 
+Decimal to Ternary
+let's N=101;
+
+  3|101| 2  ^
+  --------- ^
+  3|33|  0  ^
+  --------- ^
+  3|11|  2  ^
+  --------- ^
+  3|3 |  0  ^ 
+  -------- ^
+   |1 |   ^
+        ^
+      ----------  
+        (10202)
+               3
+      ----------  
 Conversion of Decimal to Balanced Ternary system 
 The conversion from Decimal to balanced ternary is done in two steps: 
  
